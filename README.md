@@ -1,7 +1,8 @@
-# TELA DE LOGIN #
+# LOGIN SCREEN #
 
 
-### Nesse desafio fiz uma tela de login ###
+### In this challenge I made a login screen ###
+
 <img src="./assets/print.PNG" alt="print-project">
 
 
