@@ -2,7 +2,7 @@
 
 
 ### Nesse desafio fiz uma tela de login ###
-<img src="./assets/PRINT.PNG" alt="print-project">
+<img src="./assets/print.PNG" alt="print-project">
 
 
 ### Ajustes e melhorias
